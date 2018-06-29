@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{A427248A-B5E1-4808-9883-BC2AD68EE997}|Default">
+  <MonoDevelop.Ide.ItemProperties.poolengine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="restful/response/MinerStatsResponse.cs">
+    <Files>
+      <File FileName="coins/Abstractions.cs" Line="1" Column="1" />
+      <File FileName="coins/CoinMetaData.cs" Line="63" Column="62" />
+      <File FileName="core/pplns/Abstractions.cs" Line="1" Column="1" />
+      <File FileName="Pool.cs" Line="52" Column="26" />
+      <File FileName="config/XPoolConfig.cs" Line="241" Column="20" />
+      <File FileName="config/XPoolConfigValidator.cs" Line="50" Column="27" />
+      <File FileName="restful/RestfulApiServer.cs" Line="10" Column="30" />
+      <File FileName="utils/AutofacModule.cs" Line="62" Column="34" />
+      <File FileName="core/crypto/hash/algorithm/ScryptN.cs" Line="6" Column="32" />
+      <File FileName="core/StatsRecorder.cs" Line="15" Column="38" />
+      <File FileName="core/stratumproto/StratumServer.cs" Line="15" Column="26" />
+      <File FileName="extensions/ArrayExtensions.cs" Line="9" Column="19" />
+      <File FileName="coins/Share.cs" Line="9" Column="23" />
+      <File FileName="restful/PoolExtensions.cs" Line="19" Column="11" />
+      <File FileName="coins/btcandltc/BitcoinJobManager.cs" Line="54" Column="35" />
+      <File FileName="core/webhook/WebhookNotificationService.cs" Line="224" Column="28" />
+      <File FileName="core/PoolBase.cs" Line="289" Column="25" />
+      <File FileName="core/bus/BlockNotification.cs" Line="17" Column="1" />
+      <File FileName="core/RewardRecorder.cs" Line="89" Column="13" />
+      <File FileName="coins/btcandltc/config/BitcoinDaemonEndpointConfigExtra.cs" Line="19" Column="23" />
+      <File FileName="coins/btcandltc/BitcoinConstants.cs" Line="57" Column="29" />
+      <File FileName="examples/dash_pool_no_polling.json" Line="55" Column="12" />
+      <File FileName="coins/btcandltc/BitcoinPoolBase.cs" Line="51" Column="35" />
+      <File FileName="coins/eth/EthereumPool.cs" Line="17" Column="18" />
+      <File FileName="coins/btcandltc/BitcoinExtraNonceProvider.cs" Line="1" Column="1" />
+      <File FileName="coins/btcandltc/BitcoinJob.cs" Line="1" Column="1" />
+      <File FileName="coins/JobManagerBase.cs" Line="43" Column="33" />
+      <File FileName="coins/btcandltc/config/BitcoinPoolConfigExtra.cs" Line="23" Column="11" />
+      <File FileName="core/Engine.cs" Line="128" Column="42" />
+      <File FileName="examples/digibyte_sha256_pool.json" Line="27" Column="48" />
+      <File FileName="examples/litecoin_pool.json" Line="49" Column="21" />
+      <File FileName="core/Abstractions.cs" Line="12" Column="16" />
+      <File FileName="core/bus/Abstractions.cs" Line="43" Column="24" />
+      <File FileName="coins/btcandltc/BitcoinPool.cs" Line="28" Column="20" />
+      <File FileName="properties/PublishProfiles/FolderProfile.pubxml" Line="11" Column="42" />
+      <File FileName="properties/launchSettings.json" Line="8" Column="2" />
+      <File FileName="restful/response/AdminStatsResponse.cs" Line="1" Column="1" />
+      <File FileName="restful/response/BalanceChangesResponse.cs" Line="1" Column="1" />
+      <File FileName="restful/response/MinerStatsResponse.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
